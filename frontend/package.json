@@ -19,7 +19,7 @@
     "pdf-lib": "^1.17.1",
     "html2canvas": "^1.4.1",
     "jspdf": "^2.5.1",
-    "react-flow-renderer": "^11.7.2",
+    "reactflow": "^11.10.0",
     "@mercadopago/sdk-react": "^0.0.12",
     "axios": "^1.6.0",
     "framer-motion": "^10.16.0"
